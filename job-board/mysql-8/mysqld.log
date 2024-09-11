@@ -1,0 +1,10 @@
+2024-09-11T13:56:30.311563Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2024-09-11T13:56:30.311600Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2024-09-11T13:56:30.311879Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 396
+2024-09-11T13:56:30.363814Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2024-09-11T13:56:30.365309Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-09-11T13:56:30.408725Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2024-09-11T13:56:30.409129Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2024-09-11T13:56:30.409984Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2024-09-11T13:56:30.410330Z 0 [ERROR] [MY-010119] [Server] Aborting
+2024-09-11T13:56:30.415294Z 0 [System] [MY-010910] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
